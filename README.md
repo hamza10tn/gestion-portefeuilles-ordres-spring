@@ -24,6 +24,10 @@ Avant de lancer l'application, assurez-vous d'avoir :
    - **H2** (intégrée et simple à utiliser pour les tests).
 
 ---
+## Related Documents
+
+You can find the related document [here](./examen_Portfeuille2025.pdf).
+
 
 ## Installation et exécution
 
